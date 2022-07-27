@@ -151,7 +151,7 @@ beginDocumentation()
 -------------------------------------------------------
 
 document {
-     Key => {GinModule},
+     Key => {GenericInitialModules},
      Headline => "A package for computing the generic initial module of a graded submodule of a finitely generated free module",
      TT "GinModule is a package for computing the generic initial module of a graded submodule of a finitely generated free module",
      PARA {"Other acknowledgements:"},
