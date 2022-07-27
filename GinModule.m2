@@ -1,6 +1,6 @@
 -- -*- coding: utf-8 -*-
 newPackage(
-        "GinModule",
+        "GenericInitialModules",
         Version => "1.0", 
         Date => "October 2, 2019",
         Authors => {{Name => "Luca Amata", Email => "lamata@unime.it", HomePage => "mat521.unime.it/amata"}},
